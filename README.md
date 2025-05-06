@@ -1,34 +1,20 @@
-👋 Hi, I'm Tejas Kumbhare
-Welcome to my GitHub! I'm a passionate developer who loves solving real-world problems, building cool stuff, and constantly leveling up my skills.
+Hi 👋, I'm Tejas Kumbhare
 
-🔭 Currently sharpening my development and DSA skills
+Welcome to my GitHub Profile! I'm passionate about technology, coding, and continuous learning. I love building projects, solving problems, and collaborating with others.
 
-🌱 Exploring new technologies, frameworks, and best practices
+- 🔭 I’m currently working on improving my development skills.
+- 🌱 I’m currently learning new technologies and frameworks.
+- 👯 I’m looking to collaborate on interesting and meaningful projects.
+- 🤝 Let’s connect and grow together!
 
-💡 Solved 200+ LeetCode problems and regularly share solutions here on GitHub
+📫 **Connect with me on LinkedIn:** [Tejas Kumbhare](https://www.linkedin.com/in/tejas-kumbhare-a2b5b622a)
 
-👯 Open to collaborating on meaningful projects and hackathons
+---
 
-💬 Always up for a chat about tech, startups, or side projects
+### GitHub Stats
 
-🚀 Let’s learn, grow, and build together!
+![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
 
-📫 Let's connect on LinkedIn
+---
 
-🧠 LeetCode Progress
-I've tackled over 200+ LeetCode problems — check out my repository of solutions:
-
-🔗 🟧 Tejas's LeetCode Solutions
-
-📊 GitHub Stats
-
-
-🛠️ Tech Stack
-
-🔗 Let's Connect
-📩 LinkedIn
-
-🧑‍💻 GitHub
-
-Thanks for visiting! ⭐
-Let’s keep building and growing! 🙌
+Thanks for visiting my profile! 🚀
