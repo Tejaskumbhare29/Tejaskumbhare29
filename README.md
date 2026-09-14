@@ -1,20 +1,12 @@
-Hi 👋, I'm Tejas Kumbhare
+## 👨‍💻 About Me
 
-Welcome to my GitHub Profile! I'm passionate about technology, coding, and continuous learning. I love building projects, solving problems, and collaborating with others.
+I am an MCA graduate currently working as an **FMS Implementation Coordinator**
+at **Thriveni Transport & Logistics Pvt. Ltd. (TTLPL)**, a sister company of
+**Lloyds Metals & Energy Ltd.**
 
-- 🔭 I’m currently working on improving my development skills.
-- 🌱 I’m currently learning new technologies and frameworks.
-- 👯 I’m looking to collaborate on interesting and meaningful projects.
-- 🤝 Let’s connect and grow together!
+My current role focuses on **Fleet Management System (FMS) implementation,
+software rollout, functional testing, module validation, requirement analysis,
+and process improvement**.
 
-📫 **Connect with me on LinkedIn:** [Tejas Kumbhare](https://www.linkedin.com/in/tejas-kumbhare-a2b5b622a)
-
----
-
-### GitHub Stats
-
-![Tejas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default)
-
----
-
-Thanks for visiting my profile! 🚀
+I also have experience in **Full Stack Development, Data Annotation,
+Software Testing, Python, Angular, and Data/ML projects**.
